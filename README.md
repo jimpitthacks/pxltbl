@@ -16,12 +16,11 @@ progs that will run on a physical Pixel Table and play with them using a virtual
 ## BIG plans
 
 It's early days yet, but we have lots of great ideas. You can build "progs" using your web browser right now, then when we 
-release the full build guid you can build your own table. 
+release the full build guide you can build your own table. 
 
 ## Hardware guide coming soon
 
-We'll also be releasing a full guide on how to build your own Pixel Table using a RasPi + Arduino + NeoPixels. It's fairly straight
-forward, and once built, you can use this API to make programming your table super-easy!
+We'll also be releasing a full guide on how to build your own Pixel Table using a RasPi + Arduino + NeoPixels. It's fairly straightforward, and once built, you can use this API to make programming your table super-easy!
 
 ## API reference
 
